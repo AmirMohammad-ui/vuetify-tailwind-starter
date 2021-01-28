@@ -1,24 +1,19 @@
-# vutify-tailwind-app-practicing
+### Vuetify-tailwindcss-sass starter app 
 
-## Project setup
-```
-npm install
-```
+If you tend to create an app using vuejs which is configured with vuetify, tailwindcss, sass and everything you need to start, this is what you need to start building your app immediately instead of configuring all essentials by your own.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+> All you need to start building a new Application with tailwindcss, vuetify and sass css-preprocessor (Fully Configured) :
 
-### Compiles and minifies for production
-```
-npm run build
-```
+    * vue, vue-router, vuex, vuetify, tailwindcss 
 
-### Lints and fixes files
-```
-npm run lint
-```
+    * postcss-plugins:
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+        * postcss-import
+
+        * postcss-url
+
+        * @fullhuman/postcss-purgecss
+
+        * tailwindcss
+
+    * Containing full configured tailwindcss configuration file
