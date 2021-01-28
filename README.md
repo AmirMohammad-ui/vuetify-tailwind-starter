@@ -4,16 +4,16 @@ If you tend to create an app using vuejs which is configured with vuetify, tailw
 
 > All you need to start building a new Application with tailwindcss, vuetify and sass css-preprocessor (Fully Configured) :
 
-    * vue, vue-router, vuex, vuetify, tailwindcss 
+    vue, vue-router, vuex, vuetify, tailwindcss 
 
-    * postcss-plugins:
+         postcss-plugins:
 
-        * postcss-import
+         postcss-import
 
-        * postcss-url
+         postcss-url
 
-        * @fullhuman/postcss-purgecss
+         @fullhuman/postcss-purgecss
 
-        * tailwindcss
+         tailwindcss
 
-    * Containing full configured tailwindcss configuration file
+         Containing full configured tailwindcss configuration file
