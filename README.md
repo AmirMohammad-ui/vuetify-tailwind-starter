@@ -1,4 +1,4 @@
-### Vuetify-tailwindcss-sass starter app 
+# Vuetify-tailwindcss-sass starter app 
 
 If you tend to create an app using vuejs which is configured with vuetify, tailwindcss, sass and everything you need to start, this is what you need to start building your app immediately instead of configuring all essentials by your own.
 
