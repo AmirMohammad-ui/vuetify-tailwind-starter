@@ -9,13 +9,15 @@
 
 <script>
 export default {
-  data:()=>({
-    
-  })
+  data(){
+    return{
+
+    }
+  }
 }
 </script>
 
-<style lang="postcss" scoped>
+<style lang="scss" scoped>
 h1 {
   @apply tw-text-gray-900 tw-font-light tw-text-3xl tw-mt-10;
 }

@@ -12,13 +12,15 @@ export default {
   components: {
     Hello
   },
-
-  data: () => ({
-    //
-  }),
+  data(){
+    return {
+      
+    }
+  }
 };
 </script>
 
-<style lang="postcss">
+<style lang="scss">
+@import "../public/scss/main.scss";
 
 </style>

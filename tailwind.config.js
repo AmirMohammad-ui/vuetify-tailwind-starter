@@ -1,8 +1,11 @@
 module.exports = {
   prefix: 'tw-',
   theme: {
-    extend: {
-
+    screens: {
+      xs: '600px',
+      sm: '960px',
+      md: '1264px',
+      lg: '1904px',
     },
   },
   variants: {
@@ -70,9 +73,6 @@ module.exports = {
     wordBreak: ['responsive'],
     width: ['responsive'],
     zIndex: ['responsive'],
-  },
-  corePlugins: {
-    container: false,
   },
   plugins: [],
 }
