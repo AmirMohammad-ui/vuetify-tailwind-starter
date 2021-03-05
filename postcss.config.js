@@ -15,7 +15,7 @@ module.exports = ({ env }) => ({
     //   },
     //   safelist: [ /-(leave|enter|appear)(|-(to|from|active))$/, /^(?!(|.*?:)cursor-move).+-move$/, /^router-link(|-exact)-active$/, /data-v-.*/ ],
     // }) : false,
-    env === 'production' ? require('cssnano')({preset: 'default' })() : false,
+//     env === 'production' ? require('cssnano')({preset: 'default' })() : false,
   ]
 })
 
