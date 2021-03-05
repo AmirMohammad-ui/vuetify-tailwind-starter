@@ -1,5 +1,10 @@
 module.exports = {
   prefix: 'tw-',
+  purge: [
+    './public/**/*.html',
+    './src/**/*.vue',
+    './src/**/*.jsx',
+  ],
   theme: {
     screens: {
       xs: '600px',
